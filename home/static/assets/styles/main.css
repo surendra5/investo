@@ -5525,7 +5525,9 @@ li[aria-disabled="true"] {
   z-index: 1;
 }
 .header--logo img {
-	width: 150px;
+    width: 147px;
+    margin-top: -20px;
+    height: 64px;
 }
 .header--menu_opener {
   display: none;
